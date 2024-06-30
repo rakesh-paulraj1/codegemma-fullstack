@@ -1,2 +1,6 @@
 langchain 
-gradio
+langserve
+langchain_core
+fastapi 
+uvicorn
+llama-cpp-python
